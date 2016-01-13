@@ -11,6 +11,9 @@ void test_format(void)
 
 
 
+    if(i==10) printf("yes!");
+
+
     printf("Hello\n");
     switch(i)
         {

@@ -1,0 +1,24 @@
+#
+# See http://clang.llvm.org/docs/ClangFormatStyleOptions.html
+#
+AlignTrailingComments : true
+AllowShortBlocksOnASingleLine : true
+AllowShortFunctionsOnASingleLine : All
+AllowShortIfStatementsOnASingleLine : false
+AllowShortLoopsOnASingleLine : true
+AlwaysBreakTemplateDeclarations : true
+BreakBeforeBraces: Allman
+BreakConstructorInitializersBeforeComma: true
+IndentCaseLabels: false
+ColumnLimit: 0
+IndentWidth: 4
+Language: Cpp
+MaxEmptyLinesToKeep: 2
+NamespaceIndentation: All
+PointerAlignment: Right
+SpaceBeforeAssignmentOperators: true
+SpaceBeforeParens: ControlStatements
+Standard: Auto
+TabWidth: 4
+UseTab: Never
+
